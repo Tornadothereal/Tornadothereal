@@ -1,4 +1,14 @@
-<h1 align="center">⚡ KAMAL SHARMA ⚡</h1>
+<div align="center">
+<pre>
+█   █  ███  █   █  ███  █            ████ █   █  ███  ████  █   █  ███
+█  █  █   █ ██ ██ █   █ █           █     █   █ █   █ █   █ ██ ██ █   █
+█ █   █   █ █ █ █ █   █ █           █     █   █ █   █ █   █ █ █ █ █   █
+██    █   █ █ █ █ █   █ █            ███  █████ █   █ ████  █ █ █ █   █
+█ █   █████ █   █ █████ █               █ █   █ █████ █ █   █   █ █████
+█  █  █   █ █   █ █   █ █               █ █   █ █   █ █  █  █   █ █   █
+█   █ █   █ █   █ █   █ █████       ████  █   █ █   █ █   █ █   █ █   █
+</pre>
+</div>
 <p align="center">💻 Web Development Learner &nbsp;·&nbsp; 🎧 Audio Engineering &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🎨 Graphic Design</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kamal-sharma-9b3b1b314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
