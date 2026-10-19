@@ -61,15 +61,16 @@ I'm currently developing my web development skills through Web4Jobs training and
 
 <p align="center">
   <a href="https://morenacoffe.netlify.app/"><img src="https://img.shields.io/badge/Morena_Coffee-Visit-6F4E37?style=for-the-badge&logo=netlify&logoColor=white" alt="Morena Coffee website" /></a>
+  <a href="https://mabowl.netlify.app/"><img src="https://img.shields.io/badge/MABowl-Visit-2E8B57?style=for-the-badge&logo=netlify&logoColor=white" alt="MABowl website" /></a>
   <a href="https://tornadomovies.netlify.app/"><img src="https://img.shields.io/badge/Tornado_Movies-Visit-20232A?style=for-the-badge&logo=netlify&logoColor=white" alt="Tornado Movies website" /></a>
   <a href="https://laiko.netlify.app/"><img src="https://img.shields.io/badge/Laiko-Visit-5B5B5B?style=for-the-badge&logo=netlify&logoColor=white" alt="Laiko website" /></a>
 </p>
 
 ## 🚀 Selected Project
 
-### [ma-bowl-site](https://github.com/Tornadothereal/ma-bowl-site)
+### [MABowl](https://mabowl.netlify.app/)
 
-A public website project with a dashboard.
+A live website project with a dashboard.
 
 ## 🌱 Currently Learning
 
