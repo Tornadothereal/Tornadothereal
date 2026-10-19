@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Kamal 👋</h1>
-
 <p align="center">💻 Web Development Learner &nbsp;·&nbsp; 🎧 Audio Engineering &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🎨 Graphic Design</p>
 
 ---
@@ -18,6 +17,24 @@ I'm currently developing my web development skills through Web4Jobs training and
 | 🎧 Audio | Audio engineering |
 | 🎬 Visual content | Video editing and graphic design |
 | 🤝 Collaboration | Creative problem-solving and teamwork |
+
+## 🛠️ Web Development — Learning & Practicing
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</p>
 
 ## 📜 Web4Jobs Certificates
 
