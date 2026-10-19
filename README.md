@@ -1,16 +1,4 @@
 <div align="center">
-<pre>
-█   █  ███  █   █  ███  █            ████ █   █  ███  ████  █   █  ███
-█  █  █   █ ██ ██ █   █ █           █     █   █ █   █ █   █ ██ ██ █   █
-█ █   █   █ █ █ █ █   █ █           █     █   █ █   █ █   █ █ █ █ █   █
-██    █   █ █ █ █ █   █ █            ███  █████ █   █ ████  █ █ █ █   █
-█ █   █████ █   █ █████ █               █ █   █ █████ █ █   █   █ █████
-█  █  █   █ █   █ █   █ █               █ █   █ █   █ █  █  █   █ █   █
-█   █ █   █ █   █ █   █ █████       ████  █   █ █   █ █   █ █   █ █   █
-</pre>
-</div>
-<p align="center">💻 Web Development Learner &nbsp;·&nbsp; 🎧 Audio Engineering &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🎨 Graphic Design</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/kamal-sharma-9b3b1b314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Tornadothereal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:charmakamal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -65,12 +53,6 @@ I'm currently developing my web development skills through Web4Jobs training and
   <a href="https://tornadomovies.netlify.app/"><img src="https://img.shields.io/badge/Tornado_Movies-Visit-20232A?style=for-the-badge&logo=netlify&logoColor=white" alt="Tornado Movies website" /></a>
   <a href="https://laiko.netlify.app/"><img src="https://img.shields.io/badge/Laiko-Visit-5B5B5B?style=for-the-badge&logo=netlify&logoColor=white" alt="Laiko website" /></a>
 </p>
-
-## 🚀 Selected Project
-
-### [MABowl](https://mabowl.netlify.app/)
-
-A live website project with a dashboard.
 
 ## 🌱 Currently Learning
 
