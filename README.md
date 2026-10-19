@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Kamal 👋</h1>
+<h1 align="center">⚡ KAMAL SHARMA ⚡</h1>
 <p align="center">💻 Web Development Learner &nbsp;·&nbsp; 🎧 Audio Engineering &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🎨 Graphic Design</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamal-sharma-9b3b1b314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Tornadothereal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
