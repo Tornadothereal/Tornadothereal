@@ -1,30 +1,40 @@
 <h1 align="center">Hi, I'm Kamal 👋</h1>
 
-<p align="center">Web Development Learner · Audio Engineering · Video Editing & Graphic Design</p>
+<p align="center">💻 Web Development Learner &nbsp;·&nbsp; 🎧 Audio Engineering &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🎨 Graphic Design</p>
 
-## About Me
+---
+
+## 👨‍💻 About Me
 
 I'm a multidisciplinary creative professional combining web development learning with audio engineering and visual content work. I enjoy exploring ideas, building practical digital projects, and bringing technical and creative skills together.
 
 I'm currently developing my web development skills through Web4Jobs training and certifications. I value curiosity, clear communication, collaboration, and steady hands-on learning.
 
-## Skills & Interests
+## 🧰 Skills & Interests
 
-- Web development and digital solutions
-- Audio engineering
-- Video editing and graphic design
-- Creative problem-solving and collaboration
+| Area | Focus |
+|---|---|
+| 💻 Web | Web development and digital solutions |
+| 🎧 Audio | Audio engineering |
+| 🎬 Visual content | Video editing and graphic design |
+| 🤝 Collaboration | Creative problem-solving and teamwork |
 
-## Web4Jobs Certificates
+## 📜 Web4Jobs Certificates
 
-- [Responsive Web Design](https://w4j.yool.education/certifications/web4jobs/946d52f1-c354-406d-b51e-dfc257082829) · July 2026
-- [Front End Development Libraries](https://w4j.yool.education/certifications/web4jobs/ac582315-6f9e-4265-917f-a9dc06afc8de) · August 2026
-- [Back End Development and APIs](https://w4j.yool.education/certifications/web4jobs/f02dd934-a8f6-4a7b-83be-1e1edb88f846) · October 2026
+- 🌐 [Responsive Web Design](https://w4j.yool.education/certifications/web4jobs/946d52f1-c354-406d-b51e-dfc257082829) · July 2026
+- ⚛️ [Front End Development Libraries](https://w4j.yool.education/certifications/web4jobs/ac582315-6f9e-4265-917f-a9dc06afc8de) · August 2026
+- 🔌 [Back End Development and APIs](https://w4j.yool.education/certifications/web4jobs/f02dd934-a8f6-4a7b-83be-1e1edb88f846) · October 2026
 
-## Selected Project
+## 🚀 Selected Project
 
-- [ma-bowl-site](https://github.com/Tornadothereal/ma-bowl-site) — a public website project with a dashboard.
+### [ma-bowl-site](https://github.com/Tornadothereal/ma-bowl-site)
 
-## Let's Connect
+A public website project with a dashboard.
+
+## 🌱 Currently Learning
+
+Web development through Web4Jobs training and hands-on projects.
+
+## 🤝 Let's Connect
 
 I'm open to learning, collaboration, and practical projects where technology and creativity meet.
